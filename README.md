@@ -18,5 +18,5 @@ interpolation
 	http://www.nr.com/
  * These codes are written for studying purpose only. However, you could feel
    free to modify and improve as your need.
- * Author: Thanh Nguyen
+ * Author: Edward Nguyen
  * Email: thanhng1985@gmail.com
